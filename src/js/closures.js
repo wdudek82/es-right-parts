@@ -30,3 +30,11 @@ function gather(...args) {  // rest operator
 }
 
 gather(1,2,3);
+
+
+let obj = {
+    name: 'Wojtek',
+    nickname: 'Neevor'
+};
+
+// console.log(...obj);
