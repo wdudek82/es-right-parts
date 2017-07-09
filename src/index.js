@@ -1,3 +1,3 @@
-import './js/arrowFunction';
+import './js/arrow_function';
 import './js/closures';
-import './js/restSpread';
+import './js/rest_spread';
